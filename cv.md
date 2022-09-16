@@ -45,6 +45,7 @@ def solve_eq(eq):
 + internship Performance testing Engineer in PerformanceLab
 + testing engineer in Wahelp
   
+  
 ## *Education:*
     Ufa State Aviation Technical University
     HackerRank
