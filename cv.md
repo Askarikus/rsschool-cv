@@ -1,5 +1,4 @@
 # <span style="color:blue">rsschool-cv</span>
-
 # Askar Minigaliev
 <img src="IMG_tiny.jpg" width=80px height=100px>
 
@@ -20,3 +19,27 @@
 * Intellij PyCharm
 * VSCode
 * Jmeter
+## *Code example:*
+#### Simultaneous Equations - Three Variables
+```
+import numpy
+
+def solve_eq(eq):
+    in_mass = [e[:3] for e in eq]
+    out_mass = [e[-1] for e in eq]
+    m = numpy.array(in_mass)
+    v = numpy.array(out_mass)    
+    return [round(i) for i in numpy.linalg.solve(m,v)]
+```
+## *Experience:*
+* internship Performance testing Engineer in PerformanceLab
+* testing engineer in Wahelp
+## *Education:*
+    Ufa State Aviation Technical University
+    HackerRank
+    HackerEarth
+    Leetcode
+    Stepik
+## *Languages:*
+    Russian - native
+    English - A2
