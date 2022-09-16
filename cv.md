@@ -17,17 +17,17 @@
 
     
 ## *Skills:*
-* HTML, CSS, Git
-* Python, Django, Pandas
-* Javascript
-* Intellij PyCharm
-* VSCode
-* Jmeter
++ HTML, CSS, Git
++ Python, Django, Pandas
++ Javascript
++ Intellij PyCharm
++ VSCode
++ Jmeter
 
 
 ## *Code example:*
 #### Simultaneous Equations - Three Variables
-```
+``` 
 import numpy
 
 def solve_eq(eq):
@@ -36,12 +36,15 @@ def solve_eq(eq):
     m = numpy.array(in_mass)
     v = numpy.array(out_mass)    
     return [round(i) for i in numpy.linalg.solve(m,v)]
+    
 ```
 
+
 ## *Experience:*
-* internship Performance testing Engineer in PerformanceLab
-* testing engineer in Wahelp
-* 
+
++ internship Performance testing Engineer in PerformanceLab
++ testing engineer in Wahelp
+  
 ## *Education:*
     Ufa State Aviation Technical University
     HackerRank
@@ -50,5 +53,6 @@ def solve_eq(eq):
     Stepik
 
 ## *Languages:*
+
    *  Russian - native
    *  English - A2
