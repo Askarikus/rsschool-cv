@@ -23,6 +23,7 @@
 * Intellij PyCharm
 * VSCode
 * Jmeter
+* 
 ## *Code example:*
 #### Simultaneous Equations - Three Variables
 ```
@@ -38,12 +39,14 @@ def solve_eq(eq):
 ## *Experience:*
 * internship Performance testing Engineer in PerformanceLab
 * testing engineer in Wahelp
+* 
 ## *Education:*
     Ufa State Aviation Technical University
     HackerRank
     HackerEarth
     Leetcode
     Stepik
+    
 ## *Languages:*
     Russian - native
     English - A2
