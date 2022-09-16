@@ -23,7 +23,8 @@
 * Intellij PyCharm
 * VSCode
 * Jmeter
-* 
+
+
 ## *Code example:*
 #### Simultaneous Equations - Three Variables
 ```
@@ -36,6 +37,7 @@ def solve_eq(eq):
     v = numpy.array(out_mass)    
     return [round(i) for i in numpy.linalg.solve(m,v)]
 ```
+
 ## *Experience:*
 * internship Performance testing Engineer in PerformanceLab
 * testing engineer in Wahelp
@@ -46,7 +48,7 @@ def solve_eq(eq):
     HackerEarth
     Leetcode
     Stepik
-    
+
 ## *Languages:*
-    Russian - native
-    English - A2
+   *  Russian - native
+   *  English - A2
