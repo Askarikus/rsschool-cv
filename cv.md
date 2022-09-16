@@ -1,6 +1,6 @@
 # <span style="color:blue">rsschool-cv</span>
 # Askar Minigaliev
-<img src="IMG_tiny.jpg" width=80px height=100px>
+<img src="img/IMG_tiny.jpg" width=80px height=100px>
 
 ## *Contact information:*
 
