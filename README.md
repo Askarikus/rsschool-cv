@@ -1,1 +1,1 @@
-https://askarikus.github.io/rsschool-cv
+https://askarikus.github.io/rsschool-cv/
